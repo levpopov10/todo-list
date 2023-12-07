@@ -1,0 +1,19 @@
+
+/*h1 {
+  text-align: center;
+  font-family: 'Inter', monospace;
+}*/
+input {
+	color: #69604f;
+	background: #FAEED1;
+  outline: none;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+form{
+  background:#FDF7E4;
+}
+
+#do {
+  width: 45%;
+}
